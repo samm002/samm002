@@ -1,5 +1,5 @@
 # Hi, my name is Samuel! 👋
-Fresh graduate Computer Engineer from Brawijaya University
+Passionate about backend engineering & cloud computing!
 
 ## Here's a few statistic about my profile!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=samm002.samm002)
